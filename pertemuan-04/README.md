@@ -1,15 +1,15 @@
-# pertemuan-03
-### Verifikasi Baseline P2
-#### Kondisi Komponen P2
+# pertemuan-04
+### Verifikasi Baseline P3
+#### Kondisi Komponen P3
 
 | Komponen | Kondisi Aktual | Keterangan |
 | ---------------------------------- | ------------------------------- | ----------- |
 | `application/config/config.php` | `[ada]` | `[catatan]` |
-| `application/config/routes.php` | `[ad]` | `[catatan]` |
+| `application/config/routes.php` | `[ada]` | `[catatan]` |
 | `application/controllers/Home.php` | `[ada]` | `[catatan]` |
 | `index.php` | `[ada]` | `[catatan]` |
 
-#### Pengujian Route P2 Sebelum Perubahan P3
+#### Pengujian Route P3 Sebelum Perubahan P4
 | Item | Hasil Aktual |
 | ---------------- | --------------------------- |
 | Route yang diuji | `[berhasil]` |
@@ -24,4 +24,4 @@ Baseline P2 dinyatakan `[SIAP/TIDAK SIAP]` untuk dikembangkan pada P3.
 Catatan: seluruh isi bagian ini harus berdasarkan pemeriksaan dan pengujian
 yang benar-benar dilakukan mahasiswa pada workspace P3. Jangan mengisi
 hasil berdasarkan contoh, asumsi, atau hasil pengujian yang belum dilakukan.
-![test](dokumentasi/hasil.png)
+![test](dokumentasi/hasil pertemuan 4.png)
