@@ -20,7 +20,7 @@
 | Catatan | `[jika ada]` |
 
 #### Kesimpulan
-Baseline P2 dinyatakan `[SIAP/TIDAK SIAP]` untuk dikembangkan pada P3.
+Baseline P3 dinyatakan `[SIAP/TIDAK SIAP]` untuk dikembangkan pada P4.
 Catatan: seluruh isi bagian ini harus berdasarkan pemeriksaan dan pengujian
 yang benar-benar dilakukan mahasiswa pada workspace P3. Jangan mengisi
 hasil berdasarkan contoh, asumsi, atau hasil pengujian yang belum dilakukan.
