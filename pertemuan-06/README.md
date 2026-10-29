@@ -1,5 +1,5 @@
 # pertemuan-06
-hasil p6
+hasil Pertemuan 6
 1.Menyiapkan route, model, controller, dan view katalog kendaraan untuk P6
 2.Menyiapkan route, model, controller, dan view detail kendaraan untuk P6
 3.Menyiapkan route, model, controller, dan view registrasi penyewa untuk P6
