@@ -1,10 +1,12 @@
-# pertemuan-05
-Tahap A
-![Controller belum dibuat](images/Controller_belum_dibuat.png)
-halaman kendaraan belum dapat ditampilkan karena Controller belum dibuat.
+# pertemuan-06
+1.Menyiapkan route, model, controller, dan view katalog kendaraan untuk P6
 
-Tahap B
-Menambahkan tiga route 
+2.Menyiapkan route, model, controller, dan view detail kendaraan untuk P6
 
-Tahap C
-![Controller sudah dibuat](images/Controller_sudah_dibuat.png)
+3.Menyiapkan route, model, controller, dan view registrasi penyewa untuk P6
+
+4.Menyiapkan route, model, controller, dan view login dan logout penyewa untuk P6
+
+5.Menyiapkan route, model, controller, dan view profil penyewa untuk P6
+
+6.Menghilangkan penulisan index.php pada URL aplikasi untuk P6
