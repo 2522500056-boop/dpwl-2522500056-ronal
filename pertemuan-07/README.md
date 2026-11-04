@@ -6,3 +6,5 @@
 3 "Menambahkan pesan dan tautan keranjang pada navbar"
 
 4 "Mengirim jumlah keranjang ke halaman katalog dan detail"
+
+5 "Mengirim jumlah keranjang ke halaman profil penyewa"
