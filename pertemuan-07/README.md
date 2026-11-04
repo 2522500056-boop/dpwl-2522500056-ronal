@@ -4,3 +4,5 @@
 2 "Mengintegrasikan tombol keranjang pada halaman detail kendaraan"
 
 3 "Menambahkan pesan dan tautan keranjang pada navbar"
+
+4 "Mengirim jumlah keranjang ke halaman katalog dan detail"
