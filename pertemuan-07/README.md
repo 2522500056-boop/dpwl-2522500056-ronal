@@ -12,3 +12,5 @@
 6 "Mengintegrasikan proses penambahan kendaraan ke keranjang"
 
 7 "Membuat halaman isi keranjang P7"
+
+8 "Menambahkan method untuk keranjang pada Controller"
