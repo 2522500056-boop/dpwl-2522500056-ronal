@@ -10,3 +10,5 @@
 5 "Mengirim jumlah keranjang ke halaman profil penyewa"
 
 6 "Mengintegrasikan proses penambahan kendaraan ke keranjang"
+
+7 "Membuat halaman isi keranjang P7"
