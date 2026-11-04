@@ -16,3 +16,5 @@
 8 "Menambahkan method untuk keranjang pada Controller"
 
 9 "Menguji tampilan konfirmasi checkout"
+
+10 "Membuat halaman konfirmasi dan menguji checkout transaksi"
