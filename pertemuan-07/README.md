@@ -8,3 +8,5 @@
 4 "Mengirim jumlah keranjang ke halaman katalog dan detail"
 
 5 "Mengirim jumlah keranjang ke halaman profil penyewa"
+
+6 "Mengintegrasikan proses penambahan kendaraan ke keranjang"
