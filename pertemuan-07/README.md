@@ -14,3 +14,5 @@
 7 "Membuat halaman isi keranjang P7"
 
 8 "Menambahkan method untuk keranjang pada Controller"
+
+9 "Menguji tampilan konfirmasi checkout"
