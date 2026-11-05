@@ -5,8 +5,8 @@
 -- sertakan "Add DROP TABLE" dan data), karena tabel lain (t_mobil, t_sewa, t_pilih, t_bayar)
 -- tidak terdapat di sini.
 
-CREATE DATABASE IF NOT EXISTS db_dpwl_steiven CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE db_dpwl_steiven;
+CREATE DATABASE IF NOT EXISTS db_dpwl_ronal CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE db_dpwl_ronal;
 
 CREATE TABLE IF NOT EXISTS t_admin (
   username    VARCHAR(15)  NOT NULL,

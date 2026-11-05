@@ -7,3 +7,6 @@
 
 4 Mengimplementasikan unggah dan pengelolaan foto KTP serta SIM A dengan memperhatikan validasi
 berkas, keamanan, dan penanganan kegagalan unggah.
+
+5 Menguji proses penambahan, penampilan,
+perubahan, dan penghapusan data, termasuk validasi input, password, serta unggah foto.
